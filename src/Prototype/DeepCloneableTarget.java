@@ -1,4 +1,4 @@
-package prototype;
+package Prototype;
 
 import java.io.Serializable;
 
